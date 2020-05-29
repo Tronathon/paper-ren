@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: layouts/home.njk
 title: Home
 date: 2016-01-01T00:00:00.000Z
@@ -17,4 +17,4 @@ For more info on installation and usage, view the [project repo]({{ pkg.reposito
 
 Or click the button below to deploy your own copy of this project to Netlify.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms) -->
