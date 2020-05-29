@@ -8,6 +8,4 @@ tags:
 ---
 A new post
 
-
-
-!\[](https://source.unsplash.com/random/600x400)
+![](/static/img/annie-spratt-o1tndlnvjlm-unsplash.jpg)
