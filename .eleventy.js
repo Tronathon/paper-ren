@@ -5,10 +5,12 @@ const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
+  eleventyConfig.addShortcode('first_image', post => extractFirstImage(post));
 
   // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
   // layout aliases! Say you have a bunch of existing content using
@@ -31,12 +33,12 @@ module.exports = function(eleventyConfig) {
   });
 
   // Minify CSS
-  eleventyConfig.addFilter("cssmin", function(code) {
+  eleventyConfig.addFilter("cssmin", function (code) {
     return new CleanCSS({}).minify(code).styles;
   });
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", function(code) {
+  eleventyConfig.addFilter("jsmin", function (code) {
     let minified = UglifyJS.minify(code);
     if (minified.error) {
       console.log("UglifyJS error: ", minified.error);
@@ -46,7 +48,7 @@ module.exports = function(eleventyConfig) {
   });
 
   // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     if (outputPath.indexOf(".html") > -1) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
@@ -59,7 +61,7 @@ module.exports = function(eleventyConfig) {
   });
 
   // Universal slug filter strips unsafe chars from URLs
-  eleventyConfig.addFilter("slugify", function(str) {
+  eleventyConfig.addFilter("slugify", function (str) {
     return slugify(str, {
       lower: true,
       replacement: "-",
@@ -109,3 +111,24 @@ module.exports = function(eleventyConfig) {
     }
   };
 };
+
+function extractFirstImage(doc) {
+  if (!doc.hasOwnProperty('templateContent')) {
+    console.warn('❌ Failed to extract image: Document has no property `templateContent`.');
+    return;
+  }
+
+  const content = doc.templateContent;
+
+  if (content.includes('<img')) {
+    const imgTagBegin = content.indexOf('<img');
+    const imgTagEnd = content.indexOf('>', imgTagBegin);
+
+    return content.substring(imgTagBegin, imgTagEnd + 1);
+  }
+
+  return '';
+}
+
+
+

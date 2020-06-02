@@ -1,6 +1,7 @@
-<section>
+<section class="l-grid">
 	{% for post in postslist | reverse %}
 		<article{% if post.url == url %} data-current="current item"{% endif %}>
+			<div class="c-grid__image">{% first_image post %}</div>
 			<h3>
 				<a href="{{ post.url | url }}">
 					{% if post.data.title %}
