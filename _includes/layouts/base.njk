@@ -5,11 +5,14 @@
 
 	<body>
 
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			{% include "components/nav.njk" %}
+		<header class="l-header">
+
+			<a class="c-logo" href="{{ '/' | url }}">
+				<span></span>
+			</a>
+
+			<h2 class="c-title">We are Paper Ren</h2>
+
 		</header>
 
 		<main>
