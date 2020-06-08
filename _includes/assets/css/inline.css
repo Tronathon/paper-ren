@@ -1,7 +1,7 @@
 :root {
-	--primary: blue;
+	--primary: #f28b52;
 	--secondary: white;
-	--background: #FFF0EB;
+	--background: #feeddd;
 	--red: #cccccc;
 }
 
@@ -27,6 +27,7 @@ p,
 pre,
 code {
 	line-height: 1.5;
+	color: var(--primary);
 }
 
 a[href],
@@ -112,7 +113,6 @@ article {
 	margin-bottom: 1em;
 	padding-bottom: 1em;
 	border-bottom: 1px solid #eee;
-	border-bottom: 1px solid var(--secondary);
 }
 
 main > section > article > * {
@@ -188,18 +188,19 @@ button {
 }
 
 .l-header {
-	width: 70%;
+	width: 60%;
 	margin: 0 auto;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	margin-bottom: 100px;
 }
 
 .l-grid {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(min(10rem, 100%), 1fr));
 	gap: 1.25rem;
-	max-width: 70%;
+	max-width: 60%;
 	margin: 0 auto;
 }
 
@@ -208,6 +209,7 @@ button {
 	width: 100%;
 	padding-bottom: 100%;
 	height: auto;
+	box-shadow: 6px 5px 0px 2px rgba(242,139,82,0.3);
 }
 
 .c-grid__image img {
@@ -219,6 +221,11 @@ button {
 	bottom: 0;
 	right: 0;
 	left: 0;
+}
+
+.c-grid-header a {
+	text-decoration: underline wavy;
+	display: inline-block;
 }
 
 .c-logo {
@@ -247,4 +254,25 @@ button {
 
 .c-title {
 	text-decoration: wavy;
+}
+
+h2, h3 {
+	color: var(--primary);
+	
+}
+
+h2 {
+	font-size: 1.25rem;
+}
+
+h3 {
+	font-size: 1.05rem;
+}
+
+.u-mb-30 {
+	margin-bottom: 30px;
+}
+
+.u-mb-40 {
+	margin-bottom: 40px;
 }
