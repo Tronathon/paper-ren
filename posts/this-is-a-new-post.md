@@ -7,6 +7,8 @@ summary: This is a new post
 tags:
   - post
 ---
+`<div class="c-images">`
+
 ![](/static/img/annie-spratt-o1tndlnvjlm-unsplash.jpg)
 
 ![kids image](/static/img/annie-spratt-o1tndlnvjlm-unsplash.jpg "kids image")
@@ -16,3 +18,5 @@ tags:
 ![](/static/img/annie-spratt-o1tndlnvjlm-unsplash.jpg)
 
 ![](/static/img/annie-spratt-o1tndlnvjlm-unsplash.jpg)
+
+`</div>`
