@@ -7,8 +7,6 @@ summary: This is a new post
 tags:
   - post
 ---
-``
-
 ![kids image](/static/img/annie-spratt-o1tndlnvjlm-unsplash.jpg "kids image")
 
 ![](/static/img/annie-spratt-o1tndlnvjlm-unsplash.jpg)
