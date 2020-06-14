@@ -9,8 +9,6 @@ tags:
 ---
 ``
 
-![](/static/img/annie-spratt-o1tndlnvjlm-unsplash.jpg)
-
 ![kids image](/static/img/annie-spratt-o1tndlnvjlm-unsplash.jpg "kids image")
 
 ![](/static/img/annie-spratt-o1tndlnvjlm-unsplash.jpg)
