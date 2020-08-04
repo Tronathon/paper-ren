@@ -1,32 +1,21 @@
 ---
-title: About us
-date: 2017-01-01T00:00:00.000Z
+title: We are Paper Ren
+date: 2020-08-04T21:49:29.364Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+We are a curated showcase of children's books from around the world. 
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+We review and feature books, as well as shine the spotlight on illustrators and authors that we admire. Paper Ren was born out of lockdown and during the first year of our daughter's life. 
 
-## Our services
+Our goal is to give authors and illustrators a platform to showcase their books and illustrations and we aim to focus on books that make the world a better place. We interview authors and illustrators to give a wholesome experience into the world of picture books. 
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+In a world of uncertainty, there is no better time to support local bookshops, independent publishers, upcoming authors, and budding illustrators.
 
-### Blue-sky thinking
+### Say Hello
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Please contact us at paper.ren.reads@gmail.com for review and interview queries or if you would just like to say hello. 
 
-#### Management frameworks
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+We are currently available for ARC and published reviews.
