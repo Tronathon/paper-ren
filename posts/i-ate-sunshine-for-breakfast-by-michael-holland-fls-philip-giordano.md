@@ -9,8 +9,6 @@ tags:
   - Q&A
   - Alice Melvin
 ---
-![The High Street image](/static/img/the-high-street-2-1-.jpg "The High Street by Alice Melvin")
-
 ## Q&A with Alice Melvin
 
 We had the pleasure of interviewing the talented illustrator Alice Melvin, about nostalgia and sentiment. Alice is a print illustrator and designer based in Edinburgh.\
