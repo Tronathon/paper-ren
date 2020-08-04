@@ -1,10 +1,9 @@
 ---
-title: Child of Galaxies by Blake Nuto and Charlotte Ager
-date: 2020-08-04T20:34:53.446Z
+title: I Ate Sunshine For Breakfast by Michael Holland FLS & Philip Giordano
+date: 2020-08-04T20:42:33.325Z
 author: Paper Ren
-summary: "A poetic celebration that explores the wonders of life, whilst gently
-  provoking philosophical thought and questioning the mysteries of the universe.
-  "
+summary: A delightful and fascinating guide to the lives of plants from around
+  the world.
 tags:
   - Flying Eye Books
   - Picture Book
@@ -12,27 +11,29 @@ tags:
   - Philosophy
   - Gifted
 ---
-![Child of Galaxies front cover](/static/img/dscf8257.jpg "Child of Galaxies by Blake Nuto and Charlotte Ager")
+![I Ate Sunshine For Breakfast front cover](/static/img/dscf8279.jpg "I Ate Sunshine For Breakfast by Michael Holland FLS & Philip Giordano")
 
 ## The Story
 
-This book is a poetic celebration that explores the wonders of life, whilst gently provoking philosophical thought and questioning the mysteries of the universe. The story plays with scale, both expanding and contracting between the planets, stars and solar systems to more earthly retreats such as an art gallery, a field of sunflowers and a homely kitchen.\
+This is a delightful and fascinating guide to the lives of plants from around the world. Expert ecologist and author Michael Holland delves into the world of plants, covering a wide range of topics from pollination, life in the extremes, smart plant technology and the healing properties of plants. We learn about the plant extracts used in our toothpaste and how plants can be found in our musical instruments and clothing.\
 \
-Written by Blake Nuto, a trained teacher and illustrated by Charlotte Ager, Child Of Galaxies is a beautiful, joyful account of life.
+Holland has divided the book into four essential chapters covering the fundamentals of plants, their broader world, the role they play in our everyday life and the future of plants.\
+\
+There are also twelve fun do-it-yourself activities dotted throughout this book. For example, did you know that the mineral-rich water found in potatoes can conduct electricity? In this book you can learn how to make a potato power plant along with a wild weed bottle garden, a plant maze and learn to write with invisible ink.
 
 ## The Illustrations
 
-Ager captures the magic of life from a child’s perspective, as she meanders between an imaginary account of the cosmos where children play amongst the moon and the stars, to a colourful depiction of the earth where they run through puddles and watch boats sail by. Each spread has a sense of wonder, acting as a perfect companion to the poetic words of Nuto.
+Philip Giordano’s illustrations are a visual delight and he has rendered the world of plants full of colour, texture and detail. This book is illustration-rich, and his visuals work alongside the text to describe, inform and demystify the complex world of plants. There is a unique tactile quality to Giordano’s illustrations, with hints of humour and playfulness dotted throughout.
 
 ## The Verdict
 
-This is a timeless, boundless expression of what it means to be alive and will act as a perfect introduction to life’s big questions for curious young minds.\
+This book is an inspiring and educational addition to any young reader’s bookshelf. With the added bonus of fun activities, this book is perfect for the school holidays or stay at home weekends. It can be read from any point and the fun, clever and colourful spreads will engage and inform young readers.\
 \
-Thank you to Flying Eye Books for our gifted copy of this stunning book.
+Thank you to Flying Eye Books for our gifted copy of this book.
 
 ## The Details
 
-Age: 3 - 5 years\
+Age: 7 - 9 years\
 Published by: Flying Eye Books\
 Published: 2020\
 Hardback Book
