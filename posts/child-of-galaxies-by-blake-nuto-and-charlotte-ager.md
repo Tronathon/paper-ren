@@ -7,8 +7,8 @@ summary: A delightful and fascinating guide to the lives of plants from around
 tags:
   - Flying Eye Books
   - Picture Book
-  - Poetry
-  - Philosophy
+  - Science
+  - Nature
   - Gifted
 ---
 ![I Ate Sunshine For Breakfast front cover](/static/img/dscf8279.jpg "I Ate Sunshine For Breakfast by Michael Holland FLS & Philip Giordano")
