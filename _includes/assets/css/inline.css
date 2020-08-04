@@ -1,5 +1,5 @@
 :root {
-	--primary: #f28b52;
+	--primary: #263a3f;
 	--secondary: white;
 	--background: #feeddd;
 	--red: #cccccc;
@@ -214,7 +214,7 @@ button {
 	width: 100%;
 	padding-bottom: 100%;
 	height: auto;
-	box-shadow: 6px 5px 0px 2px rgba(242,139,82,0.3);
+	box-shadow: 6px 5px 0px 2px rgba(38,58,63,0.3);
 }
 
 .c-grid__image img {
@@ -229,7 +229,7 @@ button {
 }
 
 .c-grid-header a {
-	text-decoration: underline wavy;
+	text-decoration: underline;
 	display: inline-block;
 }
 
@@ -246,6 +246,14 @@ button {
 
 .c-title {
 	text-decoration: wavy;
+}
+
+.l-article p:nth-child(3) {
+	display: flex;
+}
+
+.l-article p:nth-child(3){
+	width: 50%;
 }
 
 h2, h3 {
