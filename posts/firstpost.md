@@ -30,3 +30,10 @@ Ager captures the magic of life from a child’s perspective, as she meanders be
 This is a timeless, boundless expression of what it means to be alive and will act as a perfect introduction to life’s big questions for curious young minds.\
 \
 Thank you to Flying Eye Books for our gifted copy of this stunning book.
+
+## The Details
+
+Age: 3 - 5 years\
+Published by: Flying Eye Books\
+Published: 2020\
+Hardback Book
