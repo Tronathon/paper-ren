@@ -1,7 +1,7 @@
 ---
 title: This is my second post
 summary: Why contemplating our mortality can be a powerful catalyst for change
-by: Oliver Jeffers
+
 date: 2016-01-01
 author: Dan Urbanowicz
 tags:
