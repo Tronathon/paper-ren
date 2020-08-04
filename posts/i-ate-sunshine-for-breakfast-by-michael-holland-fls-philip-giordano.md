@@ -24,6 +24,10 @@ PR: In your book *Grandma’s House*, you take the reader on a sentimental journ
 PR: How do you feel these nostalgic experiences inform your work?
 
 > AM: “Whilst the focus of my work has shifted since *Grandma’s House* was published (in 2015), I think I am still drawn to nostalgia, probably because it can feel like a safe space in which to be, especially at times when the world around feels uncertain and troubling.”
+>
+>
+
+![The High Street image](/static/img/the-high-street-2-1-.jpg "The High Street by Alice Melvin")
 
 ![The High Street image](/static/img/the-high-street-3.jpg "The High Street by Alice Melvin")
 
