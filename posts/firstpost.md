@@ -2,11 +2,10 @@
 title: Child of Galaxies by Blake Nuto and Charlotte Ager
 date: 2020-08-04T19:49:27.945Z
 author: Paper Ren
-summary: This book is a poetic celebration that explores the wonders of life,
-  whilst gently provoking philosophical thought and questioning the mysteries of
-  the universe. The story plays with scale, both expanding and contracting
-  between the planets, stars and solar systems to more earthly retreats such as
-  an art gallery, a field of sunflowers and a homely kitchen.
+by: Oliver Jeffers
+summary: "A poetic celebration that explores the wonders of life, whilst gently
+  provoking philosophical thought and questioning the mysteries of the universe.
+  "
 tags:
   - Flying Eye Books
   - Picture Book
@@ -14,15 +13,13 @@ tags:
   - Philosophy
   - Gifted
 ---
-
-
 ![Child of Galaxies front cover](/static/img/dscf8257.jpg "Child of Galaxies by Blake Nuto and Charlotte Ager")
 
 ## The Story
 
 This book is a poetic celebration that explores the wonders of life, whilst gently provoking philosophical thought and questioning the mysteries of the universe. The story plays with scale, both expanding and contracting between the planets, stars and solar systems to more earthly retreats such as an art gallery, a field of sunflowers and a homely kitchen.\
 \
-Written by Blake Nuto, a trained teacher, and illustrated by Charlotte Ager, Child Of Galaxies is a beautiful, joyful account of life.
+Written by Blake Nuto, a trained teacher and illustrated by Charlotte Ager, Child Of Galaxies is a beautiful, joyful account of life.
 
 ## The Illustrations
 
