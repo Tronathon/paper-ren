@@ -8,8 +8,9 @@ summary: "A poetic celebration that explores the wonders of life, whilst gently
 tags:
   - Flying Eye Books
   - Picture Book
-  - Poetry
   - Philosophy
+  - Blake Nuto
+  - Charlotte Ager
   - Gifted
 ---
 ![Child of Galaxies front cover](/static/img/dscf8257.jpg "Child of Galaxies by Blake Nuto and Charlotte Ager")
