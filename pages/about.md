@@ -18,4 +18,4 @@ In a world of uncertainty, there is no better time to support local bookshops, i
 
 Please contact us at paper.ren.reads@gmail.com for review and interview queries or if you would just like to say hello. 
 
-We are currently available for ARC and published reviews.
+[Instagram](https://www.instagram.com/paper.ren/)
