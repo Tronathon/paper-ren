@@ -7,7 +7,6 @@ summary: "A poetic celebration that explores the wonders of life, whilst gently
   "
 tags:
   - Flying Eye Books
-  - Picture Book
   - Philosophy
   - Blake Nuto
   - Charlotte Ager
