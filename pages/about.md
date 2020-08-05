@@ -14,7 +14,7 @@ Our goal is to give authors and illustrators a platform to showcase their books 
 
 In a world of uncertainty, there is no better time to support local bookshops, independent publishers, upcoming authors, and budding illustrators.
 
-### Say Hello
+## Say Hello
 
 Please contact us at paper.ren.reads@gmail.com for review and interview queries or if you would just like to say hello. 
 
