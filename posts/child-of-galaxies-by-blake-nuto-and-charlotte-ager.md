@@ -6,8 +6,8 @@ summary: A delightful and fascinating guide to the lives of plants from around
   the world.
 tags:
   - Flying Eye Books
-  - Picture Book
-  - Science
+  - Michael Holland
+  - Philip Giordano
   - Nature
   - Gifted
 ---
