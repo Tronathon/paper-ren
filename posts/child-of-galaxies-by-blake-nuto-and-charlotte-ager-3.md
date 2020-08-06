@@ -12,7 +12,7 @@ tags:
   - Charlotte Ager
   - Gifted
 ---
-![Child of Galaxies front cover](/static/img/dscf8257.jpg "Child of Galaxies by Blake Nuto and Charlotte Ager")
+![Child of Galaxies front cover](/static/img/test2.png "Child of Galaxies by Blake Nuto and Charlotte Ager")
 
 ## The Story
 
