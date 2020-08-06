@@ -8,13 +8,17 @@ tags:
   - Round Table Books
   - Independent Bookstore
 ---
-![Round Table Books](/static/img/rtb2.jpg "Round Table Books")
+![Round Table Books](/static/img/untitled-1.jpg "Round Table Books")
+
+
 
 We caught up with India from Round Table Books in Brixton, London to find out more about their bookstore.
 
 PR: Can you tell us a little about Round Table Books?
 
 > RTB: “We are a book shop in Brixton with a dedication to sharing inclusive, diverse titles across race, gender, socioeconomic background, sexuality and ability. Round Table Books began as a week-long pop-up shop in Brixton in 2018 by Aimée Felone and David Stevens. Their goal was to champion diverse books and combat the report that only 1% of children’s books featured a Black or minority ethnic main character. After a hugely successful pop up and crowdfunder with support from the local community Round Table Books was born!”
+
+![](/static/img/rtb2.jpg)
 
 PR: What are your current top 3 children’s books in-store and why?
 
@@ -36,6 +40,6 @@ PR: If you could be granted one wish for the future of all bookstores what would
 
 A big thank you to India and Round Table Books for your time. 
 
-Check out their wonderful selection at [www.roundtablebooks.co.uk](www.roundtablebooks.co.uk).
+Check out their wonderful selection at [www.roundtablebooks.co.uk.](https://www.roundtablebooks.co.uk/)
 
 [](www.roundtablebooks.co.uk)Image courtesy of Round Table Books
