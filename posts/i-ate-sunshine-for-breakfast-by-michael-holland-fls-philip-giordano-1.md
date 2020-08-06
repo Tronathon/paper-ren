@@ -1,39 +1,33 @@
 ---
-title: I Ate Sunshine For Breakfast by Michael Holland FLS & Philip Giordano
+title: The Last Tree by Emily Haworth-Booth
 date: 2020-08-06T09:59:45.096Z
 author: Paper Ren
-summary: A delightful and fascinating guide to the lives of plants from around
-  the world.
+summary: This is a thought-provoking ecological fable about the relationship
+  between humanity and nature.
 tags:
-  - Flying Eye Books
-  - Michael Holland
-  - Philip Giordano
+  - Pavilion Children's Books
+  - Emily Haworth-Booth
   - Nature
   - Gifted
 ---
-![I Ate Sunshine For Breakfast front cover](/static/img/dscf8279.jpg "I Ate Sunshine For Breakfast by Michael Holland FLS & Philip Giordano")
+![The Last Tree front cover](/static/img/dscf8429.jpg "The Last Tree by Emily Haworth-Booth")
 
 ## The Story
 
-This is a delightful and fascinating guide to the lives of plants from around the world. Expert ecologist and author Michael Holland delves into the world of plants, covering a wide range of topics from pollination, life in the extremes, smart plant technology and the healing properties of plants. We learn about the plant extracts used in our toothpaste and how plants can be found in our musical instruments and clothing.\
-\
-Holland has divided the book into four essential chapters covering the fundamentals of plants, their broader world, the role they play in our everyday life and the future of plants.\
-\
-There are also twelve fun do-it-yourself activities dotted throughout this book. For example, did you know that the mineral-rich water found in potatoes can conduct electricity? In this book you can learn how to make a potato power plant along with a wild weed bottle garden, a plant maze and learn to write with invisible ink.
+This is a thought-provoking ecological fable about the relationship between humanity and nature. It begins when the villagers try to utilise the forest for their personal gain by building timber shelter and tools. As the winds gather momentum, the villagers enclose themselves with an enormous timber wall. They start to become hostile and reclusive, acting suspiciously of one another. Ultimately, it was left to the children to repair and restore harmony as they find their hope in the last tree…
 
 ## The Illustrations
 
-Philip Giordano’s illustrations are a visual delight and he has rendered the world of plants full of colour, texture and detail. This book is illustration-rich, and his visuals work alongside the text to describe, inform and demystify the complex world of plants. There is a unique tactile quality to Giordano’s illustrations, with hints of humour and playfulness dotted throughout.
+Drawn using a palette of greys, blues and greens with animated pencil lines, Emily Haworth-Booth executes this cautionary fable flawlessly. The colour palette is considered and the hand-drawn illustrations have an authentic and honest quality to them. In parts, there are dashes of humour within the dialogue, and for some spreads Haworth-Booth has adopted a graphic novel style layout to convey the story.
 
 ## The Verdict
 
-This book is an inspiring and educational addition to any young reader’s bookshelf. With the added bonus of fun activities, this book is perfect for the school holidays or stay at home weekends. It can be read from any point and the fun, clever and colourful spreads will engage and inform young readers.\
+The Last Tree is a powerful and relevant tale of the potential volatile relationship humanity has with nature. This important book is an intelligent depiction of how apparent innocent actions can turn into exploitative ones, if not considered harmoniously with nature. The message carried in this book is loud and clear and it is one that leaves us with the feeling of hope, rather than despair. This is an ideal book for discussing environmental issues with young readers and will be useful in an educational context.\
 \
-Thank you to Flying Eye Books for our gifted copy of this book.
+A big thank you to Pavilion Children's Books for our copy of this beautiful book. We will treasure this for many years to come.
 
 ## The Details
 
-Age: 7 - 9 years\
-Published by: Flying Eye Books\
+Published by: Pavilion Children’s Books\
 Published: 2020\
-Hardback Book
+Paperback Book
