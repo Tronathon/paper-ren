@@ -9,13 +9,11 @@ tags:
   - Q&A
   - Alice Melvin
 ---
-## Q&A with Alice Melvin
-
-We had the pleasure of interviewing the talented illustrator Alice Melvin, about nostalgia and sentiment. Alice is a print illustrator and designer based in Edinburgh.
-
 ![](/static/img/round-dots.png)
 
-\
+## Q&A with Alice Melvin
+
+We had the pleasure of interviewing the talented illustrator Alice Melvin, about nostalgia and sentiment. Alice is a print illustrator and designer based in Edinburgh.\
 \
 Her books include titles such as *Grandma’s House, The High Street*, *I Am: A Book About Feelings, Me and You: A Book of Opposites* and *My Day: A Book of Actions,* all published by *Tate Publishing.* She has also produced a range of stylish, distinctive greeting cards, accessories and clothing.
 
