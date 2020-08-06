@@ -1,6 +1,6 @@
 ---
 title: The Last Tree by Emily Haworth-Booth
-date: 2020-08-06T09:59:45.096Z
+date: 2020-08-06T10:46:18.010Z
 author: Paper Ren
 summary: This is a thought-provoking ecological fable about the relationship
   between humanity and nature.
