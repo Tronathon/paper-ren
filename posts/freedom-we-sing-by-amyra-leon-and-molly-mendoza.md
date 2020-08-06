@@ -1,40 +1,41 @@
 ---
-title: Freedom, We Sing by Amyra Leon and Molly Mendoza
+title: Independent Bookstore - Round Table Books
 date: 2020-08-06T05:20:04.768Z
 author: Paper Ren
-summary: This empowering and emotive book is a story of a mother and her child
-  as they dance, sing, unite and breathe through an exploration of what it means
-  to be free.
+summary: "In support of independent and local bookstores, we are showcasing
+  bookstores from around the world. "
 tags:
-  - Flying Eye Books
-  - Poetry
-  - Amyra Leon
-  - Molly Mendoza
-  - Gifted
+  - Round Table Books
+  - Independent Bookstore
 ---
-![Freedom, We Sing front cover](/static/img/dscf8272.jpg "Freedom, We Sing by Amyra Leon and Molly Mendoza")
+![Round Table Books](/static/img/rtb2.jpg "Round Table Books")
 
-## The Story
+We caught up with India from Round Table Books in Brixton, London to find out more about their bookstore.
 
-This empowering and emotive book is a story of a mother and her child as they dance, sing, unite and breathe through an exploration of what it means to be free.\
-\
-“Does Freedom run through our veins? Can it be equal and maintained?”\
-\
-With each lyrical contemplation the words “inhale” and “exhale” follow, until the book ends on a powerful note teaching us that, “Freedom is you, Freedom is me, We are free, We are free”.
+PR: Can you tell us a little about Round Table Books?
 
-## The Illustrations
+> RTB: “We are a book shop in Brixton with a dedication to sharing inclusive, diverse titles across race, gender, socioeconomic background, sexuality and ability. Round Table Books began as a week-long pop-up shop in Brixton in 2018 by Aimée Felone and David Stevens. Their goal was to champion diverse books and combat the report that only 1% of children’s books featured a Black or minority ethnic main character. After a hugely successful pop up and crowdfunder with support from the local community Round Table Books was born!”
 
- Molly Mendoza’s vibrant and immersive illustrations flow across the pages, expressing Leon’s words perfectly. There is an explosion of colour when this book is opened, beautifully conveying the message of what it means to be free. Towards the end of the book there is a fold-out spread with a depiction of freedom, where flowers, constellations and shooting stars dance across a double spread.
+PR: What are your current top 3 children’s books in-store and why?
 
-## The Verdict
+> *Look Up!* by Nathan Byron and Dapo Adeola
+>
+> RTB: “We don’t go a day without recommending this beautiful book. Wonderful illustrations and Rocket’s determination and star obsession brings any one who reads it so much joy!”
+>
+> *SLAY* by Brittney Morris
+>
+> RTB: “Kiera Johnson 17 year old college student by day and Video game developer by night! A book about harnessing your community, protecting your craft and following your dreams. Wildly entertaining!”
+>
+> *Akissi: Tales of Mischief* by Marguerite Abouet
+>
+> RTB: “A hilarious comic following the cheeky Akissi as she tries to stay out of mischief in her village in the Ivory Coast. Playful, aesthetically pleasing bold illustrations and lots and lots of humour.”
 
-This book is unique, relevant and empowering, designed to uplift and inspire young readers. It is a perfect conversation starter to help children explore the big questions surrounding equality and what it means to be free. Freedom, We Sing has also received an endorsement from Amnesty International for its role in “reminding us that we are all born free and equal”.\
-\
-Thank you to Flying Eye Books for our gifted copy of this stunning book.
+PR: If you could be granted one wish for the future of all bookstores what would it be?
 
-## The Details
+> RTB: “We hope that bookstores continue to get the support they need in order to support the communities they’re in! Bookstores provide a safe space for so many people and we’d love to see this continue to flourish. We also hope to see more diverse and inclusive titles in all bookstores, absolutely everyone deserves to see themselves represented in the titles on our shelves!”
 
-Age: 3 - 7 years\
-Published by: Flying Eye Books\
-Published: 2020\
-Hardback Book
+A big thank you to India and Round Table Books for your time. 
+
+Check out their wonderful selection at [www.roundtablebooks.co.uk](www.roundtablebooks.co.uk).
+
+[](www.roundtablebooks.co.uk)Image courtesy of Round Table Books
