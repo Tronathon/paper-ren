@@ -8,9 +8,7 @@ tags:
   - Round Table Books
   - Independent Bookstore
 ---
-![Round Table Books](/static/img/untitled-1.jpg "Round Table Books")
-
-
+![Round Table Books]( "Round Table Books")
 
 We caught up with India from Round Table Books in Brixton, London to find out more about their bookstore.
 
