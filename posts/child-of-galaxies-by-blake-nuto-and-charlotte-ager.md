@@ -1,39 +1,39 @@
 ---
-title: I Ate Sunshine For Breakfast by Michael Holland FLS & Philip Giordano
+title: The Blue Giant by Katie Cottle
 date: 2020-08-04T20:42:33.325Z
 author: Paper Ren
-summary: A delightful and fascinating guide to the lives of plants from around
-  the world.
+summary: Following the success of Katie Cottle’s book, The Green Giant, this is
+  a cautionary tale about the environmental impact of waste pollution in our
+  oceans.
 tags:
-  - Flying Eye Books
-  - Michael Holland
-  - Philip Giordano
+  - Pavilion Children's Books
+  - Katie Cottle
   - Nature
+  - Environment
   - Gifted
 ---
-![I Ate Sunshine For Breakfast front cover](/static/img/dscf8279.jpg "I Ate Sunshine For Breakfast by Michael Holland FLS & Philip Giordano")
+![The Blue Giant front cover](/static/img/dscf8464.jpg "The Blue Giant")
 
 ## The Story
 
-This is a delightful and fascinating guide to the lives of plants from around the world. Expert ecologist and author Michael Holland delves into the world of plants, covering a wide range of topics from pollination, life in the extremes, smart plant technology and the healing properties of plants. We learn about the plant extracts used in our toothpaste and how plants can be found in our musical instruments and clothing.\
-\
-Holland has divided the book into four essential chapters covering the fundamentals of plants, their broader world, the role they play in our everyday life and the future of plants.\
-\
-There are also twelve fun do-it-yourself activities dotted throughout this book. For example, did you know that the mineral-rich water found in potatoes can conduct electricity? In this book you can learn how to make a potato power plant along with a wild weed bottle garden, a plant maze and learn to write with invisible ink.
+Following the success of Katie Cottle’s book, The Green Giant, this is a cautionary tale about the environmental impact of waste pollution in our oceans. Meera and her mum are enjoying time on an idyllic beach when they are suddenly splashed by a giant emerging from the waves. The blue giant carries a crucial message of the polluted ocean and urges them to help! Meera and her mum answer the giant’s request and begin to clear the ocean as best they can. But how can they possibly tackle such an enormous challenge alone…is it too late to repair the damage?
 
 ## The Illustrations
 
-Philip Giordano’s illustrations are a visual delight and he has rendered the world of plants full of colour, texture and detail. This book is illustration-rich, and his visuals work alongside the text to describe, inform and demystify the complex world of plants. There is a unique tactile quality to Giordano’s illustrations, with hints of humour and playfulness dotted throughout.
+The illustrations are rich with vivid colours, depth and texture. Cottle uses animated, textured strokes to capture the motion of the giant and the waves, and a combination of reds and pinks to offset the blue hues. Each page is a visual delight, with impressive depth and attention to detail.
 
 ## The Verdict
 
-This book is an inspiring and educational addition to any young reader’s bookshelf. With the added bonus of fun activities, this book is perfect for the school holidays or stay at home weekends. It can be read from any point and the fun, clever and colourful spreads will engage and inform young readers.\
+This is a relevant eco-tale described in a way that is understandable to young readers. It is a story of hope teaching us that by working together, seemingly impossible challenges can be tackled, that is if the call to action is answered and everybody plays their part.\
 \
-Thank you to Flying Eye Books for our gifted copy of this book.
+Welcome additions at the back of the book include; helpful reminders of lifestyle choices that can help save the oceans, as well as a list of immediate changes we can make, including drinking with reusable straws and using a canvas bag when shopping.\
+\
+This book is an ideal conversation starter to discuss marine conservation with young readers.\
+\
+Thank you to Pavilion Children's Books for our gifted copy of this book.
 
 ## The Details
 
-Age: 7 - 9 years\
-Published by: Flying Eye Books\
+Published by: Pavilion Children’s Books\
 Published: 2020\
-Hardback Book
+Paperback Book
