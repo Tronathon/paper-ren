@@ -6,6 +6,8 @@ eleventyNavigation:
   key: About
   order: 1
 ---
+![](/static/img/posts.png)
+
 We are a curated showcase of children's books from around the world. 
 
 We review and feature books, as well as shine the spotlight on illustrators and authors that we admire. Paper Ren was born out of lockdown and during the first year of our daughter's life. 
