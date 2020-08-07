@@ -22,6 +22,8 @@ Following the success of Katie Cottle’s book, The Green Giant, this is a cauti
 
 The illustrations are rich with vivid colours, depth and texture. Cottle uses animated, textured strokes to capture the motion of the giant and the waves, and a combination of reds and pinks to offset the blue hues. Each page is a visual delight, with impressive depth and attention to detail.
 
+![](/static/img/dscf8467.jpg)
+
 ## The Verdict
 
 This is a relevant eco-tale described in a way that is understandable to young readers. It is a story of hope teaching us that by working together, seemingly impossible challenges can be tackled, that is if the call to action is answered and everybody plays their part.\
@@ -31,6 +33,8 @@ Welcome additions at the back of the book include; helpful reminders of lifestyl
 This book is an ideal conversation starter to discuss marine conservation with young readers.\
 \
 Thank you to Pavilion Children's Books for our gifted copy of this book.
+
+![](/static/img/dscf8466.jpg)
 
 ## The Details
 
