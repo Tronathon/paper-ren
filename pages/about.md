@@ -13,9 +13,3 @@ We review and feature books, as well as shine the spotlight on illustrators and 
 Our goal is to give authors and illustrators a platform to showcase their books and illustrations and we aim to focus on books that make the world a better place. We interview authors and illustrators to give a wholesome experience into the world of picture books. 
 
 In a world of uncertainty, there is no better time to support local bookshops, independent publishers, upcoming authors, and budding illustrators.
-
-## Say Hello
-
-Please contact us at paper.ren.reads@gmail.com for review and interview queries or if you would just like to say hello. 
-
-[Instagram](https://www.instagram.com/paper.ren/)
