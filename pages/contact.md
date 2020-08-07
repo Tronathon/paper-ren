@@ -14,4 +14,4 @@ You can also see our [Instagram](https://www.instagram.com/paper.ren/) [](https:
 
 E. paper.ren.reads@gmail.com
 
-A. London, UK
+A. Brighton, UK
