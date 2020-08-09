@@ -191,7 +191,7 @@ button {
 }
 
 .l-site {
-	width: 60%;
+	width: 100%;
 	margin: 0 auto;
 }
 
@@ -199,7 +199,8 @@ button {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	margin-bottom: 100px;
+	flex-direction: column;
+	margin-bottom: 40px;
 }
 
 .l-grid {
@@ -274,4 +275,33 @@ h3 {
 
 .u-mb-40 {
 	margin-bottom: 40px;
+}
+
+@media only screen and (min-width: 600px) {
+	.l-site {
+		width: 70%;
+	}
+
+	.l-header {
+		flex-direction: row;
+		margin-bottom: 100px;
+	}
+}
+
+@media only screen and (min-width: 1000px) {
+	.l-site {
+		width: 60%;
+	}
+
+	.l-header {
+		flex-direction: row;
+		margin-bottom: 100px;
+	}
+
+	.c-title__items {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		width: 60%;
+	}
 }
