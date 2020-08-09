@@ -6,7 +6,7 @@ summary: Following the success of Katie Cottle’s book, The Green Giant, this i
   a cautionary tale about the environmental impact of waste pollution in our
   oceans.
 tags:
-  - Pavilion Children's Books
+  - Pavilion Childrens Books
   - Katie Cottle
   - Nature
   - Environment
