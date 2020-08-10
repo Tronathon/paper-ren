@@ -9,11 +9,13 @@ tags:
   - Carolina Celas
   - Philosophy
 ---
-![](/static/img/dscf8475.jpg)
+![](/static/img/tags12.png)
 
 ## The Story
 
 This is a poetic exploration of a young girl’s boundless imagination as she comprehends the possibilities that lie beyond the horizon. Drawing parallels between the unreachable horizon and the infinite nature of our imaginations, the book alters perspectives varying from bird-eye views to cropped views, to uncover the endless potential of the imagination.
+
+![](/static/img/dscf8475.jpg)
 
 ## The Illustrations
 
