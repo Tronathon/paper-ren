@@ -20,15 +20,15 @@ PR: Can you tell us a little about Round Table Books?
 
 PR: What are your current top 3 children’s books in-store and why?
 
-> *Look Up!* by Nathan Byron and Dapo Adeola
+> *Look Up! -* by Nathan Byron and Dapo Adeola
 >
 > RTB: “We don’t go a day without recommending this beautiful book. Wonderful illustrations and Rocket’s determination and star obsession brings any one who reads it so much joy!”
 >
-> *SLAY* by Brittney Morris
+> *SLAY* - by Brittney Morris
 >
 > RTB: “Kiera Johnson 17 year old college student by day and Video game developer by night! A book about harnessing your community, protecting your craft and following your dreams. Wildly entertaining!”
 >
-> *Akissi: Tales of Mischief* by Marguerite Abouet
+> *Akissi: Tales of Mischief* - by Marguerite Abouet
 >
 > RTB: “A hilarious comic following the cheeky Akissi as she tries to stay out of mischief in her village in the Ivory Coast. Playful, aesthetically pleasing bold illustrations and lots and lots of humour.”
 
