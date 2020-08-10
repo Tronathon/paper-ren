@@ -9,7 +9,7 @@ tags:
   - Q&A
   - Alice Melvin
 ---
-![](/static/img/round-dots.png)
+![](/static/img/tags.png)
 
 ## Q&A with Alice Melvin
 
