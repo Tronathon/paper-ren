@@ -3,8 +3,7 @@ title: Q&A With Alice Melvin
 date: 2020-08-04T20:54:31.539Z
 author: Paper Ren
 summary: We had the pleasure of interviewing the talented illustrator Alice
-  Melvin, about nostalgia and sentiment. Alice is a print illustrator and
-  designer based in Edinburgh.
+  Melvin, about nostalgia and sentiment.
 tags:
   - Q&A
   - Alice Melvin
