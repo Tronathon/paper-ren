@@ -2,8 +2,8 @@
 title: Beyond the Horizon by Carolina Celas
 date: 2020-08-07T07:55:03.980Z
 author: Paper Ren
-summary: This is a poetic exploration of a young girl’s boundless imagination as
-  she comprehends the possibilities that lie beyond the horizon.
+summary: This is a poetic exploration of a young girl’s boundless imagination
+  and the possibilities that lie beyond the horizon.
 tags:
   - Little Gestalten
   - Carolina Celas
