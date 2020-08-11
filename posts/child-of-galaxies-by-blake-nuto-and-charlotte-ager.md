@@ -2,9 +2,8 @@
 title: The Blue Giant by Katie Cottle
 date: 2020-08-04T20:42:33.325Z
 author: Paper Ren
-summary: Following the success of Katie Cottle’s book, The Green Giant, this is
-  a cautionary tale about the environmental impact of waste pollution in our
-  oceans.
+summary: The Blue Giant is a tale about the environmental impact of waste
+  pollution in our oceans.
 tags:
   - Pavilion Childrens Books
   - Katie Cottle
