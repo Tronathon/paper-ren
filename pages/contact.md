@@ -8,14 +8,8 @@ eleventyNavigation:
 ---
 ## Say Hello
 
-Please contact us [here](paper.ren.reads@gmail.com) for review, interview queries or if you would just like to say hello. 
-
-## Email
-
-paper.ren.reads@gmail.com
+Please contact us **[here](paper.ren.reads@gmail.com)** for review, interview queries or if you would just like to say hello. 
 
 ## Instagram
 
-You can also see our [Instagram](https://www.instagram.com/paper.ren/) [](https://www.instagram.com/paper.ren/)[here](https://www.instagram.com/paper.ren/).
-
-@paper.ren
+You can also see our [Instagram](https://www.instagram.com/paper.ren/) [](https://www.instagram.com/paper.ren/)**[here](https://www.instagram.com/paper.ren/)**
